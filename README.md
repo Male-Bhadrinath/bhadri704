@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Male%20Bhadrinath&fontSize=70" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;ML+Engineer+%7C+Data+Analyst;Python+%26+Streamlit+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Male%20Bhadrinath&fontSize=70&fontColor=00E5FF&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&height=100&lines=AI+%26+ML+Enthusiast;ML+Engineer+%7C+Data+Analyst" alt="Typing SVG" />
 <br><br>
 <a href="https://www.linkedin.com/in/bhadri09" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -60,5 +60,5 @@
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" />
 </div>
